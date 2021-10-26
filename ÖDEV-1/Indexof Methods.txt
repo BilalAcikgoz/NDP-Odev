@@ -1,0 +1,15 @@
+string girilenCumle;
+char istenenHarf;
+int harfSayac;
+int[] harfSirasi = new int [2];
+
+for(int i =0;i < girilenCumle.Lenght;i++){
+    if(istenenHarf == girilenCumle[i]){
+    harfSirasi[0] = i;
+    harfSayac++;
+    if(harfSayac==2){break;}
+
+    for(int i = harfSirasi[1]-1;i>harfSirasi[0];i--)
+    {
+    Console.WriteLine(girilenCumle[i]);
+    }

@@ -1,0 +1,14 @@
+E:\ÇALIŞMALARIM\Ödevler ve Sınavlar\2. DÖNEM\Nesneye Dayalı Programlama\b201200022\b201200022\bin\Debug\b201200022.exe.config
+E:\ÇALIŞMALARIM\Ödevler ve Sınavlar\2. DÖNEM\Nesneye Dayalı Programlama\b201200022\b201200022\bin\Debug\b201200022.exe
+E:\ÇALIŞMALARIM\Ödevler ve Sınavlar\2. DÖNEM\Nesneye Dayalı Programlama\b201200022\b201200022\bin\Debug\b201200022.pdb
+E:\ÇALIŞMALARIM\Ödevler ve Sınavlar\2. DÖNEM\Nesneye Dayalı Programlama\b201200022\b201200022\obj\Debug\b201200022.csprojAssemblyReference.cache
+E:\ÇALIŞMALARIM\Ödevler ve Sınavlar\2. DÖNEM\Nesneye Dayalı Programlama\b201200022\b201200022\obj\Debug\b201200022.csproj.CoreCompileInputs.cache
+E:\ÇALIŞMALARIM\Ödevler ve Sınavlar\2. DÖNEM\Nesneye Dayalı Programlama\b201200022\b201200022\obj\Debug\b201200022.exe
+E:\ÇALIŞMALARIM\Ödevler ve Sınavlar\2. DÖNEM\Nesneye Dayalı Programlama\b201200022\b201200022\obj\Debug\b201200022.pdb
+E:\ÇALIŞMALARIM\Ödevler ve Sınavlar\2. DÖNEM\Nesneye Dayalı Programlama\ÖDEV-1\b201200022\bin\Debug\b201200022.exe.config
+E:\ÇALIŞMALARIM\Ödevler ve Sınavlar\2. DÖNEM\Nesneye Dayalı Programlama\ÖDEV-1\b201200022\bin\Debug\b201200022.exe
+E:\ÇALIŞMALARIM\Ödevler ve Sınavlar\2. DÖNEM\Nesneye Dayalı Programlama\ÖDEV-1\b201200022\bin\Debug\b201200022.pdb
+E:\ÇALIŞMALARIM\Ödevler ve Sınavlar\2. DÖNEM\Nesneye Dayalı Programlama\ÖDEV-1\b201200022\obj\Debug\b201200022.csprojAssemblyReference.cache
+E:\ÇALIŞMALARIM\Ödevler ve Sınavlar\2. DÖNEM\Nesneye Dayalı Programlama\ÖDEV-1\b201200022\obj\Debug\b201200022.csproj.CoreCompileInputs.cache
+E:\ÇALIŞMALARIM\Ödevler ve Sınavlar\2. DÖNEM\Nesneye Dayalı Programlama\ÖDEV-1\b201200022\obj\Debug\b201200022.exe
+E:\ÇALIŞMALARIM\Ödevler ve Sınavlar\2. DÖNEM\Nesneye Dayalı Programlama\ÖDEV-1\b201200022\obj\Debug\b201200022.pdb
